@@ -1,0 +1,21 @@
+# some information about you
+name: "Adham Nasr"
+nickname: "Adham"
+image: "images/author/adhamnasr.png"
+
+greeting: "Hello friend, I am"
+
+contactInfo:
+  email: "adham@geektweax.com"
+  phone: "+20 111 332 0027"
+
+summary:
+  - I am an IT consultant
+  - And a certified Front End Developer
+  - I am also a DevOps engineer
+  - I love servers, computers, and technology in general
+  - I also build & tinker with hardware
+  - A Linux enthusiast
+  - And a system architect
+  - I work on open-source projects
+  - And I would love to collaborate with people on fun open-source projects
