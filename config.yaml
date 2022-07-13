@@ -107,3 +107,9 @@ params:
     main: images/main-logo.png
     inverted: images/inverted-logo.png
     favicon: images/favicon.png
+
+  features:
+    analytics:
+      enabled: false
+      goatCounter:
+        code:
