@@ -8,5 +8,3 @@ updates:
   schedule:
     interval: "daily"
   labels:
-  - "dependencies"
-  - "automerge"
