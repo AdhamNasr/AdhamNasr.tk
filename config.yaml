@@ -11,17 +11,17 @@ languages:
     languageName: English
     weight: 1
 
-  #ar-eg:
-  #  languageName: Arabic
-  #  weight: 2
+  ar-eg:
+    languageName: Arabic
+    weight: 2
 
-  #fr:
-  #  languageName: French
-  #  weight: 3
+  fr:
+    languageName: French
+    weight: 3
 
-  #de:
-  #  languageName: German
-  #  weight: 4
+  de:
+    languageName: German
+    weight: 4
 
 # Control TOC depth
 markup:
@@ -53,7 +53,7 @@ params:
     default: system
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/adhamnasr
+  gitRepo: https://github.com/AdhamNasr/AdhamNasr.tk
   gitBranch: main
 
   # Configure the number of section title visible in the top navbar
@@ -101,7 +101,7 @@ params:
     disclaimer:
       enable: true
 
-    background: images\site\keyboard.png
+    background: images/site/keyboard.png
 
     logo:
       main: images/main-logo.png
