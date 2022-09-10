@@ -101,8 +101,7 @@ params:
     disclaimer:
       enable: true
 
-    background: 
-      enable: false
+    background: images\site\keyboard.png
 
     logo:
       main: images/main-logo.png
