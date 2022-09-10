@@ -11,17 +11,17 @@ languages:
     languageName: English
     weight: 1
 
-  ar-eg:
-    languageName: Arabic
-    weight: 2
+  #ar-eg:
+  #  languageName: Arabic
+  #  weight: 2
 
-  fr:
-    languageName: French
-    weight: 3
+  #fr:
+  #  languageName: French
+  #  weight: 3
 
-  de:
-    languageName: German
-    weight: 4
+  #de:
+  #  languageName: German
+  #  weight: 4
 
 # Control TOC depth
 markup:
