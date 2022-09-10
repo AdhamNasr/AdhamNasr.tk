@@ -101,7 +101,8 @@ params:
     disclaimer:
       enable: true
 
-    background: /images/site/default-background.png
+    background: 
+      enable: false
 
     logo:
       main: images/main-logo.png
@@ -110,6 +111,6 @@ params:
 
     features:
       analytics:
-        enabled: false
+        enable: false
         goatCounter:
           code:
