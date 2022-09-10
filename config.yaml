@@ -93,7 +93,7 @@ params:
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
     newsletter:
-      enable: true
+      enable: false
       provider: mailchimp
       mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
 
@@ -101,7 +101,7 @@ params:
     disclaimer:
       enable: true
 
-    #background: /images/site/keyboard.png
+    background: /images/site/default-background.png
 
     logo:
       main: images/main-logo.png

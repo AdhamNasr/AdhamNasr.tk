@@ -25,10 +25,9 @@ customMenus:
   showOnFooter: true
 
 # Specify OpenGraph Headers
-openGraph:
-  title: John's Blog
-  type: website
-  description: Portfolio and personal blog of John Doe.
-  image: images/author/john.png
-  url: https://hugo-toha.github.io
-
+#openGraph:
+#  title: John's Blog
+#  type: website
+#  description: Portfolio and personal blog of John Doe.
+#  image: images/author/john.png
+#  url: https://hugo-toha.github.io
