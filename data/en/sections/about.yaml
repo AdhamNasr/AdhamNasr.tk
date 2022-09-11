@@ -2,7 +2,7 @@
 section:
   name: About
   id: about
-  enable: true
+  enable: false
   weight: 1
   showOnNavbar: true
   template: sections/about.html
@@ -38,22 +38,22 @@ socialLinks:
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-- name: Communication
-  percentage: 85
-  color: blue
-- name: Critical Thinking
-  percentage: 95
-  color: yellow
-- name: Teamwork
-  percentage: 85
-  color: orange
-- name:  Work Ethics
-  percentage: 95
-  color: sky
-- name:  Positive Attitude
-  percentage: 90
-  color: pink
-- name: Leadership
-  percentage: 90
-  color: green
+#softSkills:
+#- name: Communication
+#  percentage: 85
+#  color: blue
+#-name: Critical Thinking
+#  percentage: 95
+#  color: yellow
+#- name: Teamwork
+#  percentage: 85
+#  color: orange
+#- name:  Work Ethics
+#  percentage: 95
+#  color: sky
+#- name:  Positive Attitude
+#  percentage: 90
+#  color: pink
+#- name: Leadership
+#  percentage: 90
+#  color: green
