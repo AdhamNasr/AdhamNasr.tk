@@ -2,23 +2,24 @@
 section:
   name: About
   id: about
-  enable: false
+  enable: true
   weight: 1
   showOnNavbar: true
   template: sections/about.html
 
 # your designation
-designation: IT consultant, Front End Developer, DevOps Engineer & Founder
+designation: IT consultant, System Architect, Web Developer, DevOps Engineer & Founder
 # your company information
 company:
   name: The Geek Tweax
   url: "https://www.thegeektweax.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/adhamnasr.pdf"
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'A passionate technology enthusiast with 10+ years of working experience.'
+summary: 'Passionate about technology in general, with a particular interest in music and computers. I am a secure network and IT infrastructure enthusiast, a system architect with an interest in Linux systems, and a certified front-end web developer. I am currently doing a nano degree in full-stack web development and studying to become a Google Cloud Associate, expanding my OS architecture and Linux knowledge; and finally aiming to launch my services as a start-up before the end of the year.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -35,25 +36,17 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/nasradham/"
 
-# your soft skills
-# give the percentage between 50 to 100 with 5 intervals.
-# currently supported colors: blue, yellow, pink, green, sky, orange
-#softSkills:
-#- name: Communication
-#  percentage: 85
-#  color: blue
-#-name: Critical Thinking
-#  percentage: 95
-#  color: yellow
-#- name: Teamwork
-#  percentage: 85
-#  color: orange
-#- name:  Work Ethics
-#  percentage: 95
-#  color: sky
-#- name:  Positive Attitude
-#  percentage: 90
-#  color: pink
-#- name: Leadership
-#  percentage: 90
-#  color: green
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My Resume"
+  url: "files/adhamnasr.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: The Geek Tweax
+  url: "https://www.thegeektweax.com"
+  badge: "files/logo 2021.png"

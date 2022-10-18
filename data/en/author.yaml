@@ -1,21 +1,25 @@
 # some information about you
 name: "Adham Nasr"
 nickname: "Adham"
-image: "images/author/adhamnasr.jpg"
-
+# greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hello, I am"
-
+image: "images/author/adhamnasr.jpg"
+# give your some contact information. they will be used in the footer
 contactInfo:
   email: "adham@geektweax.com"
   phone: "+20 111 332 0027"
+  github: AdhamNasr
+  linkedin: nasradham
 
+# some summary about what you do
 summary:
-  - I am an IT consultant
-  - And a certified Front End Developer
-  - I am currently studying to become a DevOps Engineer 
+  - I am a Developer
+  - An IT consultant
+  - And a certified Front End Developer.
+  - I am currently studying to become a DevOps Engineer
   - I love servers, computers, and technology in general
   - I also build & tinker with hardware
   - A Linux enthusiast
   - And a system architect
   - I work with open-source projects
-  - And I would love to contribute on any open-source projects
+  - And in my freetime I contribute to open-source projects and play music.
