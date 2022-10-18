@@ -11,27 +11,38 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+
+- name: Web-Development
+  logo: images/sections/skills/webdev1.png
+  summary: "Enrolled in Egypt FWD Scholarship, made my way up to 'Certified Front-End Developer', and soon will be done with phase three to become a Full-Stack WebDev."
+  url: "https://egfwd.com/specializtion/web-development-foundations/"
+
 - name: Kubernetes
-  logo: "/images/skills/kubernetes.png"
+  logo: /images/sections/skills/kubernetes.png
   summary: "Experienced in building secure production clusters, also capable of deploying and managing applications on Kubernetes."
   url: "https://kubernetes.io/"
 
 - name: Cloud Computing
-  logo: "/images/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP and AWS, also currently enrolled in a Google Cloud Associate scholarship"
+  logo: /images/sections/skills/cloud.png
+  summary: "Worked with most of the major clouds such as GCP, AWS, and Oracle Cloud; also currently enrolled in a Google Cloud Associate scholarship."
+  url: "https://en.wikipedia.org/wiki/Cloud_computing"
 
 - name: Docker
-  logo: "/images/skills/docker.svg"
+  logo: /images/sections/skills/docker.svg
   summary: "Experienced with deploying and managing most programs as dockerized container or stacks."
+  url: "https://www.docker.com/"
 
 #- name: Prometheus
-#  logo: "/images/skills/prometheus.png"
-#  summary: "Capable of setting up and configuring Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+#  logo: /images/sections/skills/prometheus.png
+#  summary: "Capable of setting up and configure Prometheus metrics. experienced with exporting metric data to graphana."
+#  url: "https://prometheus.io/"
 
 - name: Linux
-  logo: "/images/skills/linux.png"
+  logo: /images/sections/skills/linux.png
   summary: "I've been using linux as my main operating system for work and educational purposes for more than a decade, I'm also capable of writing bash/shell scripts."
+  url: "https://en.wikipedia.org/wiki/Linux"
 
 - name: Git
-  logo: "/images/skills/git.png"
-  summary: "Experienced with git-based development. I use Github, but I also use a self-hosted GitLab instance at work."
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. I use Github, but I also use a self-hosted GitLab instance for work and personal projects work."
+  url: "https://git-scm.com/"
