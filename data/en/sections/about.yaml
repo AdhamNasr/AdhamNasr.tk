@@ -2,24 +2,23 @@
 section:
   name: About
   id: about
-  enable: true
+  enable: false
   weight: 1
   showOnNavbar: true
   template: sections/about.html
 
 # your designation
-designation: IT consultant, System Architect, Web Developer, DevOps Engineer & Founder
+designation: IT consultant, Front End Developer, DevOps Engineer & Founder
 # your company information
 company:
   name: The Geek Tweax
   url: "https://www.thegeektweax.com"
 
 # your resume. this file path should be relative to you "static" directory
-# Dreprecated. Use resourceLinks instead.
-# resume: "files/resume.pdf"
+resume: "files/adhamnasr.pdf"
 
 # a summary about you
-summary: 'Passionate about technology in general, with a particular interest in music and computers. I am a secure network and IT infrastructure enthusiast, a system architect with an interest in Linux systems, and a certified front-end web developer. I am currently doing a nano degree in full-stack web development and studying to become a Google Cloud Associate, expanding my OS architecture and Linux knowledge; and finally aiming to launch my services as a start-up before the end of the year.'
+summary: 'A passionate technology enthusiast with 10+ years of working experience.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -36,48 +35,25 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/nasradham/"
 
-# You can put custom buttons to link your relevant resources.
-# For example, you can put link for your resume.
-resourceLinks:
-- title: "My Resume"
-  url: "files/adhamnasr.pdf"
-
-# Show your badges
-# You can show your verifiable certificates from https://www.credly.com.
-# You can also show a circular bar indicating the level of expertise on a certain skill
-badges:
-- type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.thegeektweax.com"
-  badge: "files/logo 2021.png"
-#
-#- type: certification
-#  name: Istio and IBM Cloud Kubernetes Service
-#  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-#  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
-#
-#- type: certification
-#  name: Artificial Intelligence and Machine Learning
-#  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-#  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
-#
-#- type: soft-skill-indicator
-#  name: Leadership
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+#softSkills:
+#- name: Communication
 #  percentage: 85
 #  color: blue
-#
-#- type: soft-skill-indicator
-#  name: Team Work
-#  percentage: 90
+#-name: Critical Thinking
+#  percentage: 95
 #  color: yellow
-#
-#- type: soft-skill-indicator
-#  name: Hard Working
+#- name: Teamwork
 #  percentage: 85
 #  color: orange
-
-# you can also provide color code instead of the color name
-# - type: soft-skill-indicator
-#   name: Example 1
-#   percentage: 75
-#   color: "#00adb5"
+#- name:  Work Ethics
+#  percentage: 95
+#  color: sky
+#- name:  Positive Attitude
+#  percentage: 90
+#  color: pink
+#- name: Leadership
+#  percentage: 90
+#  color: green
