@@ -12,15 +12,10 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 
-- name: Web-Development
-  logo: images/sections/skills/webdev1.png
-  summary: "Enrolled in Egypt FWD Scholarship, made my way up to 'Certified Front-End Developer', and soon will be done with phase three to become a Full-Stack WebDev."
-  url: "https://egfwd.com/specializtion/web-development-foundations/"
-
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Experienced in building secure production clusters, also capable of deploying and managing applications on Kubernetes."
-  url: "https://kubernetes.io/"
+- name: Ansible
+  logo: images/sections/skills/pngfind.com-twitter-logo-black-png-1269913.png
+  summary: "Automation wepon of choice, most of my workload is automated with ansible playbooks."
+  url: https://en.wikipedia.org/wiki/Ansible_(software)
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
@@ -29,20 +24,31 @@ skills:
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Experienced with deploying and managing most programs as dockerized container or stacks."
+  summary: "Experienced with deploying, managing, and monitoring docker containers and stacks."
   url: "https://www.docker.com/"
 
-#- name: Prometheus
-#  logo: /images/sections/skills/prometheus.png
-#  summary: "Capable of setting up and configure Prometheus metrics. experienced with exporting metric data to graphana."
-#  url: "https://prometheus.io/"
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. I use Github, but I also use a self-hosted GitLab instance for work and personal projects work."
+  url: "https://git-scm.com/"
+
+- name: Kubernetes
+  logo: /images/sections/skills/kubernetes.png
+  summary: "Experienced in building secure production clusters, also capable of deploying and managing applications on Kubernetes."
+  url: "https://kubernetes.io/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "I've been using linux as my main operating system for work and educational purposes for more than a decade, I'm also capable of writing bash/shell scripts."
   url: "https://en.wikipedia.org/wiki/Linux"
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. I use Github, but I also use a self-hosted GitLab instance for work and personal projects work."
-  url: "https://git-scm.com/"
+- name: Prometheus
+  logo: /images/sections/skills/prometheus.png
+  summary: "Capable of setting up and configure Prometheus metrics. experienced with exporting metric data to grafana."
+  url: "https://prometheus.io/"
+
+- name: Web-Development
+  logo: images/sections/skills/webdev1.png
+  summary: "Enrolled in Egypt FWD Scholarship, made my way up to 'Certified Front-End Developer', and soon will be done with phase three to become a Full-Stack WebDev."
+  url: "https://egfwd.com/specializtion/web-development-foundations/"
+
