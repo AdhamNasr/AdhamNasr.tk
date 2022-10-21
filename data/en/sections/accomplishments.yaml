@@ -26,7 +26,7 @@ accomplishments:
     name: Udemy
     url: https://www.udemy.com
   courseOverview: Installing Linux, Learning How to Use it, and Creating a Server
-  certificateURL: https://www.udemy.com/certificate/UC-dab20816-eccf-4bde-8e2f-fe3d71d3d22b/"
+  certificateURL: "https://www.udemy.com/certificate/UC-dab20816-eccf-4bde-8e2f-fe3d71d3d22b"
 
 - name: Technical Support Fundamentals
   timeline: "Sep 2020"
@@ -36,7 +36,7 @@ accomplishments:
   courseOverview: "This course prepares you for a role as an entry-level IT Support Specialist. I learned about the different facets of Information Technology, like computer hardware, the Internet, computer software, troubleshooting, and customer service."
   certificateURL: "https://coursera.org/share/1cbddcf4756abc13a37e2ebb1950e3ec"
 
-- name: Udacity Front End Web Development Professional Nanodegree
+- name: Front End Web Development Professional
   timeline: "March 2021 - Oct 2021"
   organization:
     name: Udacity

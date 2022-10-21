@@ -10,6 +10,18 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Front End Web Developer
-  image: /images/sections/achievements/webdev.jpg
-  summary: Graduated from 2/3 phases in a nanodegree scholarship program, and on my way to finish the last phase to become a full-stack developer.
+- title: Mastering VirtualBox and Network Virtualization
+#  image: images/sections/achievements/UC-fe2a351a-0067-4b77-8331-eaa0a680a4cf.jpg
+#  summary: Graduated from 2/3 phases in a nanodegree scholarship program, and on my way to finish the last phase to become a full-stack developer.
+
+- title: Linux Basics and Creating a Server
+#  image: images/sections/achievements/UC-dab20816-eccf-4bde-8e2f-fe3d71d3d22b.jpg
+#  summary: Graduated from 2/3 phases in a nanodegree scholarship program, and on my way to finish the last phase to become a full-stack developer.
+
+- title: Technical Support Fundamentals
+#  image: images/sections/achievements/CERTIFICATE_LANDING_PAGE~D376DUNYDRXU.jpeg
+#  summary: Graduated from 2/3 phases in a nanodegree scholarship program, and on my way to finish the last phase to become a full-stack developer.
+
+- title: Front End Web Developer Professional 
+#  image: /images/sections/achievements/webdev.jpg
+#  summary: Graduated from 2/3 phases in a nanodegree scholarship program, and on my way to finish the last phase to become a full-stack developer.
