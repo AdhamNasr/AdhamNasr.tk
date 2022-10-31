@@ -16,3 +16,9 @@ always = true # default: false
 
 [approve]
 auto_approve_usernames = ["anasr"]
+
+[merge.automerge_dependencies]
+# only auto merge "minor" and "patch" version upgrades.
+# do not automerge "major" version upgrades.
+versions = ["minor", "major", "patch"]
+usernames = ["dependabot", "anasr"]
