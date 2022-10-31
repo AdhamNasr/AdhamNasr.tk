@@ -20,4 +20,4 @@ auto_approve_usernames = ["anasr"]
 
 [merge.automerge_dependencies]
 versions = ["minor", "major", "patch"]
-usernames = ["dependabot", "anasr"]
+usernames = ["dependabot", "anasr" ]
