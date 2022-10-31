@@ -13,12 +13,11 @@ strip_html_comments = true # default: false
 
 [update]
 always = true # default: false
+ignored_usernames = ["dependabot"]
 
 [approve]
 auto_approve_usernames = ["anasr"]
 
 [merge.automerge_dependencies]
-# only auto merge "minor" and "patch" version upgrades.
-# do not automerge "major" version upgrades.
 versions = ["minor", "major", "patch"]
 usernames = ["dependabot", "anasr"]
