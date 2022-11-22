@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Accomplishments
+  name: Certifications
   id: accomplishments
   enable: true
   weight: 8
@@ -12,28 +12,28 @@ section:
 # Your accomplishments
 accomplishments:
 
-- name: Mastering VirtualBox and Network Virtualization
-  timeline: "April 2020"
-  organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Create Virtual Machines & Virtual Networks. A much needed skill for System Administrators, Programmers and QA Analysts.
-  certificateURL: "https://www.udemy.com/certificate/UC-fe2a351a-0067-4b77-8331-eaa0a680a4cf/"
- 
 - name: Linux Basics and Creating a Server
   timeline: "April 2020"
   organization:
     name: Udemy
     url: https://www.udemy.com
-  courseOverview: Installing Linux, Learning How to Use it, and Creating a Server
+  courseOverview: Install the Linux operating system on a bare-metal machine, learn how to use it, and creating a server environment for production.
   certificateURL: "https://www.udemy.com/certificate/UC-dab20816-eccf-4bde-8e2f-fe3d71d3d22b"
+
+- name: Mastering VirtualBox and Network Virtualization
+  timeline: "April 2020"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com
+  courseOverview: Create virtual machines & virtual networks. A much needed skill for System Administrators, Programmers and QA Analysts.
+  certificateURL: "https://www.udemy.com/certificate/UC-fe2a351a-0067-4b77-8331-eaa0a680a4cf/"
 
 - name: Technical Support Fundamentals
   timeline: "Sep 2020"
   organization:
     name: Coursera
     url: https://www.coursera.org
-  courseOverview: "This course prepares you for a role as an entry-level IT Support Specialist. I learned about the different facets of Information Technology, like computer hardware, the Internet, computer software, troubleshooting, and customer service."
+  courseOverview: This course prepares you for a role as an entry-level IT Support Specialist. It focuses on the different facets of Information Technology, like computer hardware, the Internet, computer software, troubleshooting, and customer service.
   certificateURL: "https://coursera.org/share/1cbddcf4756abc13a37e2ebb1950e3ec"
 
 - name: Front End Web Development Professional
@@ -41,6 +41,6 @@ accomplishments:
   organization:
     name: Udacity
     url: https://www.udacity.com
-  courseOverview: Learned JavaScript basics from the very beginning. Main aim was increasing knowledge in Front End Web Development gradually, while creating some interesting projects by the end of this program.
+  courseOverview: Learned JavaScript basics from the very beginning. Main aim was increasing knowledge in Front End Web Development gradually, while creating some interesting projects by the end of the program.
   certificateURL: "https://confirm.udacity.com/ANDJZWWQ"
 

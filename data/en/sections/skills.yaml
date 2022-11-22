@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Skills
+  name: Technical Stack
   id: skills
   enable: true
   weight: 2
@@ -14,12 +14,12 @@ skills:
 
 - name: Ansible
   logo: images/sections/skills/pngfind.com-twitter-logo-black-png-1269913.png
-  summary: "Automation wepon of choice, most of my workload is automated with ansible playbooks."
+  summary: "Automation weapon of choice, most of my workload is automated with ansible playbooks."
   url: https://en.wikipedia.org/wiki/Ansible_(software)
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, and Oracle Cloud; also currently enrolled in a Google Cloud Associate scholarship."
+  summary: "Worked on most of the major cloud-providers, such as GCP, AWS, and Oracle Cloud; also currently enrolled in a Google Cloud Associate scholarship."
   url: "https://en.wikipedia.org/wiki/Cloud_computing"
 
 - name: Docker
@@ -29,7 +29,7 @@ skills:
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. I use Github, but I also use a self-hosted GitLab instance for work and personal projects work."
+  summary: "Experienced with git-based development. I use Github, but I also use a self-hosted GitLab instance for work and personal projects."
   url: "https://git-scm.com/"
 
 - name: Kubernetes
@@ -44,7 +44,7 @@ skills:
 
 - name: Prometheus
   logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setting up and configure Prometheus metrics. experienced with exporting metric data to grafana."
+  summary: "Capable of setting up and configure Prometheus metrics. And experienced with exporting metric data to grafana."
   url: "https://prometheus.io/"
 
 - name: Web-Development
