@@ -14,8 +14,8 @@ skills:
 
 - name: Ansible
   logo: images/sections/skills/pngfind.com-twitter-logo-black-png-1269913.png
-  summary: "Automation weapon of choice, most of my workload is automated with ansible playbooks."
-  url: https://en.wikipedia.org/wiki/Ansible_(software)
+  summary: "Automation weapon of choice, most of my workload is automated using ansible."
+  url: "https://en.wikipedia.org/wiki/Ansible_(software)"
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
@@ -29,7 +29,7 @@ skills:
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. I use Github, but I also use a self-hosted GitLab instance for work and personal projects."
+  summary: "Experienced with git-based development. I use Github for my public repos, but I also use a self-hosted GitLab instance for work and personal projects."
   url: "https://git-scm.com/"
 
 - name: Kubernetes
@@ -39,13 +39,23 @@ skills:
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "I've been using linux as my main operating system for work and educational purposes for more than a decade, I'm also capable of writing bash/shell scripts."
+  summary: "I've been using linux as my main operating system for work and educational purposes for more than a decade, I'm also capable of writing shell scripts."
   url: "https://en.wikipedia.org/wiki/Linux"
+
+- name: LXC
+  logo: /images/sections/skills/lxc.png
+  summary: "I use LXC to self-host a few web-applications for work and for personal use as well"
+  url: "https://linuxcontainers.org/"
 
 - name: Prometheus
   logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setting up and configure Prometheus metrics. And experienced with exporting metric data to grafana."
+  summary: "Capable of deploying, setting up, and configuring Prometheus metrics, and exporting data to grafana."
   url: "https://prometheus.io/"
+
+- name: Proxmox
+  logo: /images/sections/skills/prometheus.png
+  summary: "I have a self hosted environment at home consisting of five nodes in one cluster"
+  url: "https://www.proxmox.com/en/"
 
 - name: Web-Development
   logo: images/sections/skills/webdev1.png
